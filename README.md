@@ -7,9 +7,4 @@
 * [Утянский Денис](https://github.com/Utyasnkiy)
 
 ### Сервисы
-* Meistertask - таск-менеджер
-* Figma - user story
-
-### Документация
-* Техническое задание
-* Курсовой проект
+* [Figma - user story](https://www.figma.com/file/nyQiM9eIQtUwxejK297c6k/user_story?node-id=0%3A1&t=AlMuVduIKMAJziPT-1)
