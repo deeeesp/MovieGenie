@@ -8,3 +8,9 @@
 
 ### Сервисы
 * [Figma - user story](https://www.figma.com/file/nyQiM9eIQtUwxejK297c6k/user_story?node-id=0%3A1&t=AlMuVduIKMAJziPT-1)
+* [Trello](https://trello.com/b/D71xqQP1/moviegenie)
+Сначала мы использовали MeisterTask, но после поняли, что просмотр возможен только по ссылке, поэтому перешли на Trello. PDF-файл прошлого таск менеджера мы оставили в проекте.
+
+### Документация
+* [Техническое задание](https://github.com/deeeesp/MovieGenie/blob/main/documentation/Technical_Specification.pdf)
+* [Курсовой проект](https://github.com/deeeesp/MovieGenie/blob/main/documentation/Course_Project.pdf)
