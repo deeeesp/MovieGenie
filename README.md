@@ -14,6 +14,6 @@
 
 ### Документация
 * [Техническое задание](https://github.com/deeeesp/MovieGenie/blob/main/documentation/Technical_Specification.pdf)
-* [Курсовой проект](https://github.com/deeeesp/MovieGenie/blob/main/documentation/Course_Project%20(1).pdf)
+* [Курсовой проект](https://github.com/deeeesp/MovieGenie/blob/main/documentation/Course_Project%20(2).pdf)
 * [Видео-презентация](https://github.com/deeeesp/MovieGenie/blob/main/Videoprezentation.rar)
 
