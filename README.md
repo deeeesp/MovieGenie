@@ -1,5 +1,6 @@
 # MovieGenie
 Веб-приложение для поиска фильмов.
+* [Серверная часть](https://github.com/deeeesp/MovieGenie-server)
 
 ### Команда 6.2-3
 * [Стазаев Даниил](https://github.com/deeeesp)
