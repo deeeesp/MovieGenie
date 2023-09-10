@@ -1,6 +1,9 @@
 # MovieGenie
 Веб-приложение для поиска фильмов.
 * [Серверная часть](https://github.com/deeeesp/MovieGenie-server)
+* [Клиентская часть](https://github.com/Utyasnkiy/movie_genie_front)
+* [Ссылка на swagger](https://backend-deeeesp.cloud.okteto.net/swagger-ui/index.html#/)
+* [Ссылка на приложение](https://movie-genie-131a7.web.app/)
 
 ### Команда 6.2-3
 * [Стазаев Даниил](https://github.com/deeeesp)
@@ -15,5 +18,5 @@
 ### Документация
 * [Техническое задание](https://github.com/deeeesp/MovieGenie/blob/main/documentation/Technical_Specification.pdf)
 * [Курсовой проект](https://github.com/deeeesp/MovieGenie/blob/main/documentation/Course_Project%20(2).pdf)
-* [Видео-презентация](https://github.com/deeeesp/MovieGenie/blob/main/Videoprezentation.rar)
+* [Видео презентации, серверной и клиентской части, деплой](https://drive.google.com/drive/folders/1_Gzn82Y1Y1Sn2gA9MlNVMtPF-Qcmlbil?usp=sharing)
 
