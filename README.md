@@ -1,8 +1,8 @@
 # ТП-6.2-3
 ## Участники группы
 * [Стазаев Даниил](https://github.com/deeeesp) [ тимлид; backend-разработчик ]
-* [Зюбан Даниил](https://github.com/Danchik5z) [ client-разработчик ]
-* [Утянский Денис](https://github.com/Utyasnkiy) [ бизнес-аналитик, проектировщик ]
+* [Зюбан Даниил](https://github.com/Danchik5z) [ бизнес-аналитик, проектировщик ]
+* [Утянский Денис](https://github.com/Utyasnkiy) [ client-разработчик ]
 * [Потапов Никита](https://github.com/Nikita-hubn) [технический писатель, тестировщик] 
 
 ## Описание проекта
