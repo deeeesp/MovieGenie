@@ -1,4 +1,4 @@
-# ТП-5.2-3
+# ТП-6.2-3
 ## Участники группы
 * [Стазаев Даниил](https://github.com/deeeesp) [ тимлид; backend-разработчик ]
 * [Зюбан Даниил](https://github.com/Danchik5z) [ client-разработчик ]
