@@ -13,13 +13,11 @@
 
 - [Ссылка на сайт](https://movie-genie-131a7.web.app/#/films)
 - [Swagger UI](https://backend-deeeesp.cloud.okteto.net/swagger-ui/index.html#/)
-- [Код клиентской части](app/client)
-- [Код серверной части](app/server)
-- [Репозиторый сервера](https://github.com/deeeesp/movie)
-- [Репозиторый клиента](https://github.com/Utyasnkiy/movie_genie_front)
+- [Репозиторый серверной части](https://github.com/deeeesp/movie)
+- [Репозиторый клиентской части](https://github.com/Utyasnkiy/movie_genie_front)
 
 ### Сервисы
-* [Figma - user story](https://www.figma.com/file/nyQiM9eIQtUwxejK297c6k/user_story?node-id=0%3A1&t=AlMuVduIKMAJziPT-1)]
+* [Figma - user story](https://www.figma.com/file/nyQiM9eIQtUwxejK297c6k/user_story?node-id=0%3A1&t=AlMuVduIKMAJziPT-1)
 
 ## Документация
 - [Курсовая_работа.doc](documentation/Курсовая.docx)
