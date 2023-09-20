@@ -1,0 +1,3 @@
+[submodule "movie_genie_front"]
+	path = movie_genie_front
+	url = https://github.com/Utyasnkiy/movie_genie_front.git
