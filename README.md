@@ -17,7 +17,6 @@
 </details> 
 
 * [Сопроводительное Письмо](https://github.com/Crabishka/TP_project/blob/main/Documentation/Letter.pdf)
-
 - [Ссылка на сайт](https://movie-genie-131a7.web.app/#/films)
 - [Swagger UI](https://backend-deeeesp.cloud.okteto.net/swagger-ui/index.html#/)
 - [Репозиторый серверной части](https://github.com/deeeesp/movie)
@@ -26,8 +25,8 @@
 ## Сервисы
 * [Figma - user story](https://www.figma.com/file/nyQiM9eIQtUwxejK297c6k/user_story?node-id=0%3A1&t=AlMuVduIKMAJziPT-1)
 * [Таск менеджер](https://app.asana.com/0/1205514818234132/1205514884174881)
-> Почта для таск менеджера - tempmailforasana@mail.ru
-> Пароль для таск менеджера - BTrcy(prU1P2
+ Почта для таск менеджера - tempmailforasana@mail.ru  
+ Пароль для таск менеджера - BTrcy(prU1P2  
 
 ## Документация
 - [Курсовая_работа.doc](documentation/Курсовая.docx)
@@ -41,7 +40,7 @@
 ## Видеоматериалы
 - [Видео с архитектурой Frontend](https://youtu.be/hC6_hpYVnig)
 - [Видео с архитектурой Backend](https://youtu.be/9iz9zGZoy6U)
-- [Видео с развертыванием приложения](https://youtu.be/mBT73UgZ5fQ)
+- [Видео с развертыванием приложения](https://www.youtube.com/watch?v=sLbqJmd39GQ)
 - [Видеопрезентация](https://youtu.be/N_OB0hMm5Vc)
 
 
