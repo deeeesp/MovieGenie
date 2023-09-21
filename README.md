@@ -13,6 +13,7 @@
     <table style="border: none">
         <tr><th>Роль</th><th>Логин</th><th>Пароль</th></tr>
         <tr><td>Администратор</td><td>administrator</td><td>administrator</td></tr>
+	<tr><td>Пользователь</td><td>username</td><td>password</td></tr>
     </table>
 </details> 
 
@@ -38,9 +39,9 @@
 - [Диаграммы](docs/diagrams)
 
 ## Видеоматериалы
-- [Видео с архитектурой Frontend](https://youtu.be/hC6_hpYVnig)
+- [Видео с архитектурой Frontend](https://www.youtube.com/watch?v=K0BkC8RBmCw)
 - [Видео с архитектурой Backend](https://youtu.be/9iz9zGZoy6U)
 - [Видео с развертыванием приложения](https://www.youtube.com/watch?v=sLbqJmd39GQ)
-- [Видеопрезентация](https://youtu.be/N_OB0hMm5Vc)
+- [Видеопрезентация](https://www.youtube.com/watch?v=PoSOdCvUFfw)
 
 
