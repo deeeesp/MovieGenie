@@ -7,7 +7,14 @@
 
 ## Описание проекта
 ### MovieGenie – мобильное приложение для проката инвентаря
-> Веб-приложение для поиска фильмов. Поиск специализированных подборок. Создание собственных подборок. 
+> Веб-приложение для поиска фильмов. Поиск специализированных подборок. Создание собственных подборок.
+<details>
+    <summary><strong>Тестовые учетные данные</strong></summary>
+    <table style="border: none">
+        <tr><th>Роль</th><th>Логин</th><th>Пароль</th></tr>
+        <tr><td>Администратор</td><td>administrator</td><td>administrator</td></tr>
+    </table>
+</details> 
 
 * [Сопроводительное Письмо](https://github.com/Crabishka/TP_project/blob/main/Documentation/Letter.pdf)
 
@@ -15,10 +22,6 @@
 - [Swagger UI](https://backend-deeeesp.cloud.okteto.net/swagger-ui/index.html#/)
 - [Репозиторый серверной части](https://github.com/deeeesp/movie)
 - [Репозиторый клиентской части](https://github.com/Utyasnkiy/movie_genie_front)
-
-### Данные администратора
-логин - administrator
-пароль - administrator
 
 ## Сервисы
 * [Figma - user story](https://www.figma.com/file/nyQiM9eIQtUwxejK297c6k/user_story?node-id=0%3A1&t=AlMuVduIKMAJziPT-1)
