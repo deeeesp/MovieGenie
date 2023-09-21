@@ -42,6 +42,6 @@
 - [Видео с архитектурой Frontend](https://www.youtube.com/watch?v=K0BkC8RBmCw)
 - [Видео с архитектурой Backend](https://youtu.be/9iz9zGZoy6U)
 - [Видео с развертыванием приложения](https://www.youtube.com/watch?v=sLbqJmd39GQ)
-- [Видеопрезентация](https://www.youtube.com/watch?v=L6bUvsSIMbM](https://youtu.be/74xRnf4vFIk)https://youtu.be/74xRnf4vFIk)
+- [Видеопрезентация](https://youtu.be/74xRnf4vFIk)
 
 
