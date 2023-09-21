@@ -34,7 +34,7 @@
 - [Курсовая_работа.pdf](documentation/Курсовая.pdf)
 - [Техническое задание.doc](documentation/Technical_Specification_final.docx)
 - [Техническое задание.pdf](documentation/Technical_Specification_final_pdf.pdf)
-- [Презентация.pptx](documentation/presentation.pptx)
+- [Презентация.pptx](documentation/Presentation.pptx)
 - [Презентация.pdf](documentation/Presentation.pdf)
 - [Диаграммы](docs/diagrams)
 
