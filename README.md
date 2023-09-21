@@ -16,8 +16,15 @@
 - [Репозиторый серверной части](https://github.com/deeeesp/movie)
 - [Репозиторый клиентской части](https://github.com/Utyasnkiy/movie_genie_front)
 
-### Сервисы
+### Данные администратора
+логин - administrator
+пароль - administrator
+
+## Сервисы
 * [Figma - user story](https://www.figma.com/file/nyQiM9eIQtUwxejK297c6k/user_story?node-id=0%3A1&t=AlMuVduIKMAJziPT-1)
+* [Таск менеджер](https://app.asana.com/0/1205514818234132/1205514884174881)
+> Почта для таск менеджера - tempmailforasana@mail.ru
+> Пароль для таск менеджера - BTrcy(prU1P2
 
 ## Документация
 - [Курсовая_работа.doc](documentation/Курсовая.docx)
