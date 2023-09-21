@@ -17,7 +17,7 @@
     </table>
 </details> 
 
-* [Сопроводительное Письмо](https://github.com/Crabishka/TP_project/blob/main/Documentation/Letter.pdf)
+* [Сопроводительное Письмо](documentation/Сопроводильное_письмо.pdf)
 - [Ссылка на сайт](https://movie-genie-131a7.web.app/#/films)
 - [Swagger UI](https://backend-deeeesp.cloud.okteto.net/swagger-ui/index.html#/)
 - [Репозиторый серверной части](https://github.com/deeeesp/movie)
@@ -36,12 +36,12 @@
 - [Техническое задание.pdf](documentation/Technical_Specification_final_pdf.pdf)
 - [Презентация.pptx](documentation/Presentation.pptx)
 - [Презентация.pdf](documentation/Presentation.pdf)
-- [Диаграммы](docs/diagrams)
+- [Диаграммы](documentation/diagrams)
 
 ## Видеоматериалы
 - [Видео с архитектурой Frontend](https://www.youtube.com/watch?v=K0BkC8RBmCw)
 - [Видео с архитектурой Backend](https://youtu.be/9iz9zGZoy6U)
 - [Видео с развертыванием приложения](https://www.youtube.com/watch?v=sLbqJmd39GQ)
-- [Видеопрезентация](https://www.youtube.com/watch?v=PoSOdCvUFfw)
+- [Видеопрезентация](https://www.youtube.com/watch?v=L6bUvsSIMbM)
 
 
