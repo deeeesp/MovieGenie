@@ -6,9 +6,12 @@
 * [Зюбан Даниил](https://github.com/Danchik5z) [ бизнес-аналитик, проектировщик, технический писатель ]
 * [Стазаев Даниил](https://github.com/deeeesp) [backend-разработчик ]
 
-### [Ссылка на сайт](https://movie-genie-131a7.web.app/#/films)
+
 
 ## Описание проекта
+
+### [Ссылка на сайт](https://movie-genie-131a7.web.app/#/films)
+
 ### MovieGenie – мобильное приложение для проката инвентаря
 > Веб-приложение для поиска фильмов. Поиск специализированных подборок. Создание собственных подборок.
 <details>
@@ -18,7 +21,8 @@
         <tr><td>Администратор</td><td>administrator</td><td>administrator</td></tr>
 	<tr><td>Пользователь</td><td>username</td><td>password</td></tr>
     </table>
-</details> 
+</details>
+
 * [Сопроводительное Письмо](documentation/Сопроводильное_письмо.pdf)
 - [Swagger UI](https://backend-deeeesp.cloud.okteto.net/swagger-ui/index.html#/)
 - [Репозиторый серверной части](https://github.com/deeeesp/movie)
