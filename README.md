@@ -45,6 +45,6 @@
 - [Видеопрезентация](https://www.youtube.com/watch?v=ySp26QZfQ4Q&ab_channel=%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0%D0%9F%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2)
 - [Видеопрезентация(Версия Потапова)](https://www.youtube.com/watch?v=L6bUvsSIMbM&ab_channel=%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0%D0%9F%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2)
 ## Ревью на команду 3-6
-- [Презентация](documentation/Ревью 6.2-3 на 3-6.pdf)
+- [Презентация](documentation/review.pdf)
 
 
