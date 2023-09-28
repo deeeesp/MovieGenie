@@ -1,13 +1,14 @@
 # ТП-6.2-3
 ## Участники группы
-* [Стазаев Даниил](https://github.com/deeeesp) [backend-разработчик ]
-* [Зюбан Даниил](https://github.com/Danchik5z) [ бизнес-аналитик, проектировщик, технический писатель ]
+
 * [Утянский Денис](https://github.com/Utyasnkiy) [ тимлид, client-разработчик ]
 * [Потапов Никита](https://github.com/Nikita-hubn) [технический писатель] 
+* [Зюбан Даниил](https://github.com/Danchik5z) [ бизнес-аналитик, проектировщик, технический писатель ]
+* [Стазаев Даниил](https://github.com/deeeesp) [backend-разработчик ]
 
-## Описание проекта
 ### [Ссылка на сайт](https://movie-genie-131a7.web.app/#/films)
 
+## Описание проекта
 ### MovieGenie – мобильное приложение для проката инвентаря
 > Веб-приложение для поиска фильмов. Поиск специализированных подборок. Создание собственных подборок.
 <details>
@@ -18,7 +19,6 @@
 	<tr><td>Пользователь</td><td>username</td><td>password</td></tr>
     </table>
 </details> 
-
 * [Сопроводительное Письмо](documentation/Сопроводильное_письмо.pdf)
 - [Swagger UI](https://backend-deeeesp.cloud.okteto.net/swagger-ui/index.html#/)
 - [Репозиторый серверной части](https://github.com/deeeesp/movie)
@@ -34,9 +34,9 @@
 - [Диаграммы](documentation/diagrams)
 
 ## Документация
-- [Курсовая_работа.pdf](documentation/Курсовая.pdf)
-- [Техническое задание.pdf](documentation/Technical_Specification_final_pdf.pdf)
-- [Презентация.pdf](documentation/Presentation.pdf)
+- [Курсовая работа](documentation/Курсовая.pdf)
+- [Техническое задание](documentation/Technical_Specification_final_pdf.pdf)
+- [Презентация](documentation/Presentation.pdf)
 
 
 ## Видеоматериалы
