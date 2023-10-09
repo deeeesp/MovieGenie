@@ -39,7 +39,7 @@
 
 ## Документация
 - [Курсовая работа](documentation/Курсовая.pdf)
-- [Техническое задание](documentation/Technical_Specification_final_pdf.pdf)
+- [Техническое задание](documentation/TS.pdf)
 - [Презентация](documentation/Presentation.pdf)
 
 
