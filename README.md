@@ -28,6 +28,12 @@
 - [Репозиторый серверной части](https://github.com/deeeesp/movie)
 - [Репозиторый клиентской части](https://github.com/Utyasnkiy/movie_genie_front)
 
+## Документация
+- [Курсовая работа](documentation/Курсовая.pdf)
+- [Техническое задание](documentation/TS.pdf)
+- [Презентация](documentation/Presentation.pdf)
+- [Видеопрезентация](https://www.youtube.com/watch?v=tHVh34OLnEA&ab_channel=%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0%D0%9F%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2)
+
 ## Сервисы
 * [Figma - user story](https://www.figma.com/file/nyQiM9eIQtUwxejK297c6k/user_story?node-id=0%3A1&t=AlMuVduIKMAJziPT-1)
 * [Таск менеджер](https://app.asana.com/0/1205514818234132/1205514884174881)  
@@ -37,17 +43,11 @@
 ## Диаграммы
 - [Диаграммы](documentation/diagrams)
 
-## Документация
-- [Курсовая работа](documentation/Курсовая.pdf)
-- [Техническое задание](documentation/TS.pdf)
-- [Презентация](documentation/Presentation.pdf)
 
-
-## Видеоматериалы
+## Дополнительные видеоматериалы
 - [Видео с архитектурой Frontend](https://www.youtube.com/watch?v=K0BkC8RBmCw)
 - [Видео с архитектурой Backend](https://youtu.be/9iz9zGZoy6U)
 - [Видео с развертыванием приложения](https://www.youtube.com/watch?v=sLbqJmd39GQ)
-- [Видеопрезентация](https://www.youtube.com/watch?v=tHVh34OLnEA&ab_channel=%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0%D0%9F%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2)
 - [Видеопрезентация(Версия Потапова)](https://www.youtube.com/watch?v=L6bUvsSIMbM&ab_channel=%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0%D0%9F%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2)
 
 ## Ревью на команду 3-6
