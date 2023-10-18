@@ -29,7 +29,7 @@
 - [Репозиторый клиентской части](https://github.com/Utyasnkiy/movie_genie_front)
 
 ## Документация
-- [Курсовая работа](documentation/Курсовая.pdf)
+- [Курсовая работа](documentation/КурсовойТП1.pdf)
 - [Техническое задание](documentation/TS.pdf)
 - [Презентация](documentation/Presentation.pdf)
 - [Видеопрезентация](https://www.youtube.com/watch?v=tHVh34OLnEA&ab_channel=%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0%D0%9F%D0%BE%D1%82%D0%B0%D0%BF%D0%BE%D0%B2)
