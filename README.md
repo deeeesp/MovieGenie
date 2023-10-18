@@ -23,7 +23,7 @@
     </table>
 </details>
 
-- [Сопроводительное Письмо](documentation/Сопроводильное_письмо.pdf)
+- [Сопроводительное Письмо](documentation/Soprovoditelnoe_pismo.pdf)
 - [Swagger UI](https://backend-deeeesp.cloud.okteto.net/swagger-ui/index.html#/)
 - [Репозиторый серверной части](https://github.com/deeeesp/movie)
 - [Репозиторый клиентской части](https://github.com/Utyasnkiy/movie_genie_front)
